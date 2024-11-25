@@ -63,7 +63,7 @@ We welcome contributions to enhance this project! Please fork the repository, ma
 
 ## **Contact**
 For any questions or feedback, please contact:
-- **LinkedIn**: https://linkedin.com/in/devanshidobriyal-5943
+- **LinkedIn**: https://linkedin.com/in/devanshidobriyal-5943aa2b1
 
 ---
 
